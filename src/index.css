@@ -1,0 +1,7 @@
+body{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card-collection{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
